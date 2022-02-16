@@ -1,3 +1,3 @@
 # Header
 
-This is a demo file for the course.
+This is a demo readme file for the course.
